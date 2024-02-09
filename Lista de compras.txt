@@ -2,3 +2,7 @@
 2- intento
 3- ensayo
 4- maqueta
+5- nueva prueba
+6- nuevo intento
+7- nuevo ensayo
+8- nueva maqueta
